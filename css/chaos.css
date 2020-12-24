@@ -1,0 +1,31 @@
+.chaos__content {
+    text-align: center;
+    max-width: 1015px;
+    margin: 0 auto;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 48px;
+    color: var(--color-black);
+}
+.chaos__p {
+    margin: 16px;
+    font-weight: normal;
+font-size: 20px;
+line-height: 32px;
+    color: var(--color-grey);
+}
+.chaos__image {
+    max-width: 100%;
+    margin: 40px;
+}
+.chaos__h3 {
+    margin: 144px;
+    text-align: center;
+    max-width: 781px;
+    margin: 0 auto;
+    font-weight: normal;
+font-size: 32px;
+line-height: 48px;
+color: var(--color-black);
+}
+

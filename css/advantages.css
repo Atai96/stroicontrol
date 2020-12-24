@@ -1,0 +1,24 @@
+.advantages {
+    padding: 148px 0 124px;
+    text-align: center;
+}
+.advantages__title {
+    margin: 20px 0 10px;
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+text-align: center;
+color: var(--color-black);
+}
+.advantages__description {
+    font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+text-align: center;
+color: var(--color-black);
+}
+.advantages__title {
+    margin: ;
+}
